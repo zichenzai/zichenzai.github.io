@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>这是我网站搭建的详情 on 辰的博客</title>
+    <link>http://localhost:1313/tags/%E8%BF%99%E6%98%AF%E6%88%91%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E7%9A%84%E8%AF%A6%E6%83%85/</link>
+    <description>Recent content in 这是我网站搭建的详情 on 辰的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E8%BF%99%E6%98%AF%E6%88%91%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E7%9A%84%E8%AF%A6%E6%83%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo框架的搭建网站的博客</title>
+      <link>http://localhost:1313/posts/%E6%B5%8B%E8%AF%95%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%8D%9A%E5%AE%A2/hugo-website-setup/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/%E6%B5%8B%E8%AF%95%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%8D%9A%E5%AE%A2/hugo-website-setup/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 辰的博客</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on 辰的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这是我网站搭建的详情</title>
+      <link>http://localhost:1313/tags/%E8%BF%99%E6%98%AF%E6%88%91%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E7%9A%84%E8%AF%A6%E6%83%85/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E8%BF%99%E6%98%AF%E6%88%91%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E7%9A%84%E8%AF%A6%E6%83%85/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>博客</title>
+      <link>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 16 Nov 2024 21:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>技术</title>
+      <link>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Sat, 16 Nov 2024 21:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>娱乐</title>
+      <link>http://localhost:1313/tags/%E5%A8%B1%E4%B9%90/</link>
+      <pubDate>Sat, 16 Nov 2024 21:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%A8%B1%E4%B9%90/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/css/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>http://localhost:1313/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/html/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/markdown/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>http://localhost:1313/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/themes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tag With Whitespaces</title>
+      <link>http://localhost:1313/tags/tag-with-whitespaces/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tag-with-whitespaces/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>http://localhost:1313/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/text/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji</title>
+      <link>http://localhost:1313/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/emoji/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
